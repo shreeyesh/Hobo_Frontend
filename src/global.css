@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --btn-large-normal: Poppins;
+  --headline-h3: Rubik;
+
+  /* font sizes */
+  --paragraph-semibold-size: 14px;
+  --btn-large-normal-size: 16px;
+  --font-size-xl: 20px;
+  --headline-h3-size: 48px;
+  --title-1-size: 18px;
+  --caption-small-12-16-regular-size: 12px;
+  --headline-h5-size: 24px;
+  --headline-h4-size: 34px;
+
+  /* Colors */
+  --gray-21: #23242f;
+  --gray-22: #1a1b23;
+  --mask: rgba(0, 0, 0, 0.6);
+  --color-gray-100: rgba(0, 0, 0, 0.7);
+  --transparent: rgba(0, 0, 0, 0);
+  --white: #fff;
+  --gray-18: #3b3c4e;
+  --gray-20: #2c2d3a;
+  --color-lightslategray-100: #9698b0;
+  --gray-10: #8b8ca7;
+  --primary-5: #0177fb;
+  --green-5: #53f3c3;
+  --primary-1: #ebf4ff;
+  --green-8: #10e5a5;
+  --gray-16: #4f5069;
+  --gray-7: #aeafc2;
+  --black: #000;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-3xs: 10px;
+  --gap-21xl: 40px;
+  --gap-10xs: 3px;
+  --gap-17xl: 36px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-5xs: 8px;
+  --padding-13xl: 32px;
+  --padding-11xs: 2px;
+  --padding-17xl: 36px;
+  --padding-4xs: 9px;
+  --padding-xs: 12px;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-xs: 12px;
+  --br-5xl: 24px;
+  --br-81xl: 100px;
+  --br-5xs: 8px;
+  --br-981xl: 1000px;
+
+  /* Effects */
+  --divider-highlight-bottom: 0px -2px 0px #0177fb inset;
+}
